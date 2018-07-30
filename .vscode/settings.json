@@ -7,6 +7,7 @@
   "vetur.format.defaultFormatterOptions": {
     "wrap_attributes": "force-aligned"
   },
+  // 解决 eslint “space-before-function-paren” 方法前空格的问题
   "vetur.format.defaultFormatter.js": "vscode-typescript",
   "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
   // 细节,配置gitlen中git提交历史记录的信息显示情况
